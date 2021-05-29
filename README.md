@@ -10,8 +10,6 @@
 | Syllabus:   | Teaching Hours |
 |-------------|----------------|
 | Course Name |                |
-| Unit I 
-Introduction: Motivation and Applications, importance of Data Visualization, Basics of Supervised and Unsupervised Learning     |                |
-|Unit II 
-Regression Techniques: Basic concepts and applications of Regression, Simple Linear Regression – Gradient Descent and Normal Equation Method, Multiple Linear Regression, Non-Linear Regression, Linear Regression with Regularization, Hyper-parameters tuning, Loss Functions, Evaluation Measures for Regression Techniques           |                |
+| Unit I </br>Introduction: Motivation and Applications, importance of Data Visualization, Basics of Supervised and Unsupervised Learning     |                |
+|Unit II </br>Regression Techniques: Basic concepts and applications of Regression, Simple Linear Regression – Gradient Descent and Normal Equation Method, Multiple Linear Regression, Non-Linear Regression, Linear Regression with Regularization, Hyper-parameters tuning, Loss Functions, Evaluation Measures for Regression Techniques           |                |
 |             |                |
