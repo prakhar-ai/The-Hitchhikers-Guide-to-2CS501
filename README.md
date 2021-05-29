@@ -5,3 +5,11 @@
 | Course Code | 2CS501           |
 |-------------|------------------|
 | Course Name | Machine Learning |
+
+
+| Syllabus:   | Teaching Hours |
+|-------------|----------------|
+| Course Name |                |
+| Unit I Introduction: Motivation and Applications, importance of Data Visualization, Basics of Supervised and Unsupervised Learning     |                |
+|             |                |
+|             |                |
