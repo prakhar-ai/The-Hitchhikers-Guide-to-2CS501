@@ -1,2 +1,2 @@
-# The-Hitchhikers-Guide-to-2CS501
+# The Hitchhiker's Guide to 2CS501
 42
