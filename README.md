@@ -12,4 +12,4 @@
 | Course Name |                |
 | Unit I </br>Introduction: Motivation and Applications, importance of Data Visualization, Basics of Supervised and Unsupervised Learning     |                |
 |Unit II </br>Regression Techniques: Basic concepts and applications of Regression, Simple Linear Regression – Gradient Descent and Normal Equation Method, Multiple Linear Regression, Non-Linear Regression, Linear Regression with Regularization, Hyper-parameters tuning, Loss Functions, Evaluation Measures for Regression Techniques           |                |
-|             |                |
+| Unit III </br> Classification Techniques: Naïve Bayes Classification, Fitting Multivariate Bernoulli Distribution, Gaussian Distribution and Multinomial Distribution, K-Nearest Neighbours, Decision trees. </br> Support Vector Machines: Hard Margin and Soft Margin, Kernels and Kernel Trick, Evaluation Measures for Classification Techniques            |                |
